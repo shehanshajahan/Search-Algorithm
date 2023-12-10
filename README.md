@@ -103,12 +103,13 @@ else:
     print("Element found at index: ",result)
 
 ```
-## Sample Input and Output
+## Output
 
+![image](https://github.com/shehanshajahan/Search-Algorithm/assets/139317389/f43b2801-a705-46d5-b6d5-1242cfbd9eb1)
 
+![image](https://github.com/shehanshajahan/Search-Algorithm/assets/139317389/9864add3-4166-44e9-b491-5262572ad91e)
 
-
-
+![image](https://github.com/shehanshajahan/Search-Algorithm/assets/139317389/44a52921-2176-4c1a-84ef-2f6937710792)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
